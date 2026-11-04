@@ -1,0 +1,2 @@
+target_id,cell,n,d,w,value,table_value,table_cell_text,table_upper_bound,margin,table_fetched_utc,file,sha256,credit
+constant-weight-codes,"A(28,6,11)",28,6,11,29484,29484,29484Nu-104230KKT,104230,0,2026-10-31T09:05:00Z,object/A28_6_11_29484_hex.txt,bf1d129e939d659ec1edc872b5271c694d547994e5b9bdf20d9dc921bc4739fb,"PSL(2,27) 3-orbit exact global optimum & 3-(28,11,1485) design"

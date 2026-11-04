@@ -1,0 +1,16 @@
+a9e6d3a9f41a72f1a4b1cd62a9b7fe8c8babbbe23fc328e45e586058d1e775d7  ./README.md
+a5c677cb7324fbd8c9e9beca8b7420d741d304d6f712e6eab6c90b5aaceae3da  ./supplied/CONTRIBUTOR_README.md
+0de5a9887b4e1a39a276bd1ec3b1a21e33179f0397d3ec896bcbe89aabaffa49  ./supplied/HOW_WE_FOUND_IT.md
+d5fa303a064388f41a8f9784bc82a4cc793e8d7334beec841c69a21ad647ab26  ./supplied/INDEX.csv
+72b9de903aaa453f2e5c79995e44da6579dff639bf4497012cf4535ffa4d5ad5  ./supplied/RUN_IT_YOURSELF.md
+1154b58a45621ec9c1afe020c17f5ad935978a80953460f12ed1cdf0bac1058b  ./supplied/how-we-built-it/SOLVER_REPORT.md
+25ced040c1224e197976755d4eee4ab8839b7f19c9006e3ae31f6cb2f3fa620f  ./supplied/how-we-built-it/audit_psl27_w11.cpp
+bf1d129e939d659ec1edc872b5271c694d547994e5b9bdf20d9dc921bc4739fb  ./supplied/object/A28_6_11_29484_hex.txt
+e044e1baf553df707cbb1d9ea83f24f836015652026e588bf54b5fe77e1ad1f1  ./supplied/panel/gate.md
+09f3a5c395c2ddb2316967e7f55668d89b641a470e96e4ef7abc29c55ecd1ac0  ./supplied/panel/skeptic-1-reproduce.md
+6f0438adcb3dc62ad1da36f8b61c96a1d999ced66df10fd9f0885e53856b5281  ./supplied/panel/skeptic-2-novelty.md
+13d0d51df1cc35a86c2df2f1778b077c3fc779c70bdfeb20c06225d9552e5a26  ./supplied/panel/skeptic-3-criterion.md
+51a3a775b726fac6958db3b8f148cda06fbea13e8ef81d3d0ecff5be5f20b2ed  ./supplied/verify-it-yourself/RECEIPTS.md
+e276ffc46964d8f0f5bd4c6fec330adfee1e309310684832bbdfc170809f1611  ./supplied/verify-it-yourself/run_checks.sh
+74c9287510316a42301153d505dd2801ec9283748d3209f696aa95e254f514ad  ./supplied/verify-it-yourself/verify_code.cpp
+bdad10a54f40162e1cbfdf5007904d589ea633438cfbf1f23ac3da0385bdad32  ./verify_independent.py
